@@ -1,0 +1,19 @@
+# Layout settings
+
+animation: "bounceOut"
+
+# Images
+
+logo: "logo.svg"
+hero: "hero-bg.jpg"
+avatar: "nikolai_av.jpg"
+
+# Colors
+
+accent: "#0a285b"
+
+textColor: "#666"
+headlineColor: "#333"
+bgcolor: "#7ac3ff"
+documentBackgroundColor: "#FFF"
+formColor: "#242628"
